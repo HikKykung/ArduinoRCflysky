@@ -1,7 +1,3 @@
-// Arduino RC Car using Flysky Transmitter and Receiver
-// Subscribe the Channel: https://www.YouTube.com/@AKElectroDIY
-// Video Link: https://youtu.be/q-Clw0m3E18
-
 int enA = 5;
 int in1 = 2;
 int in2 = 3;
